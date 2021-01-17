@@ -1,6 +1,6 @@
 # digit-recognition
-Recognizing digits from the MNIST dataset.
 <img align="left" width="600" src="https://miro.medium.com/max/372/1*AO2rIhzRYzFVQlFLx9DM9A.png">
+Recognizing digits from the MNIST dataset.
 ## Project objective  
 - The aim of this project is to build ML model which can recognize digits with high accuracy.
 ## Project description
