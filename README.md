@@ -7,5 +7,5 @@
 - A dataset of 70,000 images of numbers ranging between 0-9 is given.
 - Each is image is composed of 784 features (28x28 pixels).  
 - ANN model was tested using MLP classifier with one hidden layer of 16 neurons.
-- RNN model was tested using 32 filters with kernel size (5,5). 
+- CNN model was tested using 32 filters with kernel size (5,5). 
 - Dimensionality reduction was executed using PCA method.
